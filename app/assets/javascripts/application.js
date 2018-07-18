@@ -14,7 +14,6 @@
 //= require bootstrap
 //= require jquery.backstretch
 //= require wow
-//= require retina-1.1.0
 //= require waypoints
 //= require jquery.magnific-popup
 //= require scripts

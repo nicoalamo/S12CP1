@@ -24,6 +24,7 @@ Rails.application.config.assets.paths << Rails.root.join('vendor', 'bootstrap', 
 
 Rails.application.config.assets.precompile += %w( *.jpg )
 Rails.application.config.assets.precompile += %w( *.png )
+Rails.application.config.assets.precompile += %w( *.gif )
 
 # Precompile additional assets.
 # application.js, application.css, and all non-JS/CSS in the app/assets
